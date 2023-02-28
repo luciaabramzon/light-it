@@ -1,0 +1,34 @@
+[
+    {
+    "name":"Basic",
+    "price":9,
+    "description":"Quis susspendise ut fermentum",
+    "features":{
+        "m":"https://www.svgimages.com/svg-image/s4/tick-big-icon-256x256.png",
+        "u":"https://www.svgimages.com/svg-image/s4/tick-big-icon-256x256.png",
+        "t":"https://images.vexels.com/media/users/3/204819/isolated/lists/b1a570389653c212de19c57821c5ef6f-trazo-de-puntuacion-con-guion.png",
+        "c":"https://images.vexels.com/media/users/3/204819/isolated/lists/b1a570389653c212de19c57821c5ef6f-trazo-de-puntuacion-con-guion.png"}
+    },
+    {
+    "name":"Essential",
+    "price":29,
+    "description":"Quis eleifend a tincidunt pellentesque",
+    "features":{
+        "m":"https://www.svgimages.com/svg-image/s4/tick-big-icon-256x256.png",
+        "u":"https://www.svgimages.com/svg-image/s4/tick-big-icon-256x256.png",
+        "t":"https://www.svgimages.com/svg-image/s4/tick-big-icon-256x256.png",
+        "c":"https://images.vexels.com/media/users/3/204819/isolated/lists/b1a570389653c212de19c57821c5ef6f-trazo-de-puntuacion-con-guion.png"
+        }
+    },
+    {
+    "name":"Premium",
+    "price":59,
+    "description":"Orci volutpat ut sed sed neque, dui eget",
+    "features":{
+        "m":"https://www.svgimages.com/svg-image/s4/tick-big-icon-256x256.png",
+        "u":"https://www.svgimages.com/svg-image/s4/tick-big-icon-256x256.png",
+        "t":"https://images.vexels.com/media/users/3/204819/isolated/lists/b1a570389653c212de19c57821c5ef6f-trazo-de-puntuacion-con-guion.png",
+        "c":"https://images.vexels.com/media/users/3/204819/isolated/lists/b1a570389653c212de19c57821c5ef6f-trazo-de-puntuacion-con-guion.png"
+        }
+    }
+]
